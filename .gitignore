@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Project-specific
+venv/
+venv_test/
+test_env_infodif/
+*.pth
+
+# UCF101 video data — too large for GitHub, not included
+data/UCF101/
+data/UCF101TrainTestSplits-RecognitionTask/

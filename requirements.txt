@@ -1,0 +1,8 @@
+decord==0.6.0
+opencv-python==4.13.0.92
+numpy==2.4.4
+tqdm==4.68.3
+transformers==5.12.1
+pytorchvideo==0.1.5
+av==17.1.0
+fvcore==0.1.5.post20221221
