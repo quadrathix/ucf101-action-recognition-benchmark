@@ -11,7 +11,6 @@ Requires an NVIDIA GPU with a driver compatible with CUDA 12.4 (CUDA Toolkit its
 pip install torch==2.6.0+cu124 torchvision==0.21.0+cu124 torchaudio==2.6.0+cu124 --extra-index-url https://download.pytorch.org/whl/cu124
 
 3- Data Setup
-
 This repository does not include the UCF101 dataset (too large for GitHub), therefore it needs to be downloaded separately.
 
 1. Get a Kaggle API key from https://www.kaggle.com/settings → API → "Create New Token" (downloads `kaggle.json` with your username and key).
